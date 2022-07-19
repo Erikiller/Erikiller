@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @Erikiller
-- 👀 I’m interested in programming and game development
-- 🌱 I’m currently working on an unpublished game.
-- 📫 You can reach me via Discord: ᴇʀɪᴋɪʟʟᴇʀ#5404
+## Hi Geeks,
+
+My Name is Erik and I am 16 years old C# .net Dev
+
+As I am currently working on an unpublished project there is not much to show here; **but** I can tell you a little bit about the Project:
+We (two other guys and I) are currently working on a voxel game and the game engine behind this game; this requires some good knowledge and skills with working in a team.
+
+There will be some more projects in the near future but until then you have to wait ;)
 
 <!---
 Erikiller/Erikiller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
